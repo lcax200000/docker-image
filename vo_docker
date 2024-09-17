@@ -1,1 +1,1 @@
-FROM  quay.io/kubevirt/cdi-uploadproxy:v1.60.3
+FROM  quay.io/kubevirt/cdi-operator:v1.60.3
