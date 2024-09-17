@@ -1,1 +1,1 @@
-FROM   quay.io/kubevirt/virt-launcher:v1.3.1
+FROM   quay.io/kubevirt/cdi-operator:v1.60.3
