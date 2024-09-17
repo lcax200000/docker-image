@@ -1,1 +1,1 @@
-FROM  quay.io/kubevirt/cdi-apiserver:v1.60.3
+FROM  quay.io/kubevirt/cdi-uploadserver:v1.60.3
