@@ -1,1 +1,1 @@
-FROM  quay.io/kubevirt/cdi-controller:v1.60.3
+FROM  quay.io/kubevirt/cdi-importer:v1.60.3
