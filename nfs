@@ -1,1 +1,1 @@
-FROM   alpine:latest
+FROM   docker.io/qemux/qemu-docker:6.01
