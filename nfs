@@ -1,1 +1,1 @@
-FROM   docker.io/qemux/qemu-docker:6.01
+FROM   rancher/rancher:v2.8.5
